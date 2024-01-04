@@ -1,7 +1,7 @@
 ### Hi there! I'm Javier Rodríguez 👋
 
 # 💫 About Me:
-🌱 I’m currently learning nestjs, I wish to be a fullsctack developer<br>👯 I’m looking to collaborate on all projects that makes me grow<br>💬 Ask me about Vue, Angular, Ionic or whatever you whant to know about frontend 😋<br>👨‍💻 All of my projects are available at https://github.com/xjavierx1995?tab=repositories<br>📄 Know about my experiences https://drive.google.com/file/d/1rNpPT0J5d2dTNga9C2umdKSAE8BRl-6x/view?usp=sharing<br>📫 How to reach me xjavierx1995@gmail.com<br>⚡ Fun fact I'm good in english but very shy to speak it 😅
+🌱 I’m currently learning nestjs, I wish to be a fullsctack developer<br>👯 I’m looking to collaborate on all projects that makes me grow<br>💬 Ask me about Vue, Angular, Ionic or whatever you whant to know about frontend 😋<br>👨‍💻 All of my projects are available at https://github.com/xjavierx1995?tab=repositories<br>📄 Know about my experiences https://drive.google.com/file/d/12ckb7baU1UzOFPNhypPoR3AKMpRX23p4/view?usp=sharing<br>📫 How to reach me xjavierx1995@gmail.com<br>⚡ Fun fact I'm good in english but very shy to speak it 😅
 
 
 ## 🌐 Socials:
